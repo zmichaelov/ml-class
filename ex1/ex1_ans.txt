@@ -1,0 +1,19 @@
+Diagonal Matrix
+
+   1   0   0   0   0
+   0   1   0   0   0
+   0   0   1   0   0
+   0   0   0   1   0
+   0   0   0   0   1
+
+Program paused. Press enter to continue.
+Plotting Data ...
+Program paused. Press enter to continue.
+Running Gradient Descent ...
+ans =  32.073
+Theta found by gradient descent: -3.630291 1.166362 
+For population = 35,000, we predict a profit of 4519.767868
+For population = 70,000, we predict a profit of 45342.450129
+Program paused. Press enter to continue.
+
+Visualizing J(theta_0, theta_1) ...
